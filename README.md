@@ -1,5 +1,6 @@
 # Tyler Harris
 
+<!--
 <svg width="300" height="120" viewBox="0 0 200 120">
   <text x="20" y="0" font-size="20" fill="white" font-family="Roboto">
     Hello
@@ -29,7 +30,7 @@
     <animate attributeName="y" from="-20" to="140" dur="8s" repeatCount="indefinite" />
   </text>
 </svg>
-
+-->
 **Hello!**  
 I'm a **full-time student** with a passion for technology and continuous learning. While my GitHub might currently showcase a limited number of projects, I am actively working on growing my skills in a number of areas including database management, software devolopment, and network solutions.
 
