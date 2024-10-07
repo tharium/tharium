@@ -40,6 +40,8 @@ Currently, I am exploring:
 - Expanding my knowledge of databases like **SQLite** for data storage and analysis
 
 As I continue to learn and build more projects, I look forward to sharing my progress here. Stay tuned for new projects and feel free to reach out to collaborate or connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-harris-49455827b/)
 <!--
 **tharium/tharium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
