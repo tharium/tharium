@@ -35,24 +35,12 @@
 I'm a **full-time student** with a passion for technology and continuous learning. While my GitHub might currently showcase a limited number of projects, I am actively working on growing my skills in a number of areas including database management, software devolopment, and network solutions.
 
 Currently, I am exploring:
-- A flight dynamics model visualization
+- A flight dynamics model in Unity
+- A UML Editor built on Java/JavaFX
 - Developing a network traffic map with real-time data routing
-- Expanding my knowledge of databases like **SQLite** for data storage and analysis
 
 As I continue to learn and build more projects, I look forward to sharing my progress here. Stay tuned for new projects and feel free to reach out to collaborate or connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-harris-49455827b/)
-<!--
-**tharium/tharium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://komarev.com/ghpvc/?username=tharium&color=red)
