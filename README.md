@@ -7,7 +7,7 @@ I'm a **full-time student** with a passion for technology and continuous learnin
 Currently, I am exploring:
 - A flight dynamics model in Unity
 - A UML Editor built on Java/JavaFX
-- Developing a network traffic map with real-time data routing
+- WiFi Based Gesture Recognition Using PyTorch
 
 As I continue to learn and build more projects, I look forward to sharing my progress here. Stay tuned for new projects and feel free to reach out to collaborate or connect!
 
