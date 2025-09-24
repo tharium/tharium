@@ -1,7 +1,7 @@
 # Tyler Harris
 
 **Hello!**  
-I'm a **full-time student** with a passion for technology and continuous learning. While my GitHub might currently showcase a limited number of projects, I am actively working on growing my skills in a number of areas including machine learning, software devolopment, and network solutions.
+I'm a graduate student at Eastern Washington University. While my GitHub might currently showcase a limited number of projects, I am actively working on growing my skills in a number of areas including machine learning, software devolopment, and network solutions.
 
 Currently, I am exploring:
 - TinyML
